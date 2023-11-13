@@ -1,6 +1,6 @@
 1	Abidji	Ivory Coast	*	*	*	Abidji_DAT_new.txt	new
 2	Agarabi	Papua New Guinea	J. Goddard and L. Luff	Scott Merrifield and Bruce Hansen	Bruce Hansen	Agarabi_DAT_new.txt	new
-3	Casiguran Agta	Philippines	Thomas N. Headland	Jason D. Patent	*	Agta_DAT_new.txt	new
+3	Casiguran Philippines	Thomas N. Headland	Jason D. Patent	*	Agta_DAT_new.txt	new
 4	Aguacateco	Guatemala	H S McArthur, Tino	Ken Merrifield	Ken Merrifield	Aguacatec_DAT_new.txt	new
 5	Amarakaeri	Peru	*	*	*	Amarakaeri_DAT_new.txt	new
 6	Ampeeli	Papua New Guinea	E. West	Jason Patent	*	Ampeeli_DAT_new.txt	new
@@ -9,7 +9,7 @@
 9	Apinaye	Brazil	June Morris	Ken Merrifield	Ken Merrifield	Apinaye_DAT_new.txt	new
 10	Arabela	Peru	R. and B. Rich	Jason Patent	*	Arabela_DAT_new.txt	new
 11	Bahinemo	Papua New Guinea	*	*	*	Bahinemo_DAT_new.txt	new
-12	Bauzi	Indonesian 	*	*	*	Bauzi_DAT_new.txt	new
+12	Bauzi	Indonesia 	*	*	*	Bauzi_DAT_new.txt	new
 13	Berik	Indonesia	*	*	*	Berik_DAT_new.txt	new
 14	Bete	Ivory Coast	*	*	*	Bete_DAT_new.txt	new
 15	Bhili	India	*	*	*	Bhili_DAT_new.txt	new
@@ -28,8 +28,8 @@
 28	Chumburu	Ghana 	Hansford	Scott Merrifield	William R. Merrifield	Chumburu_DAT_new.txt	new
 29	Cofan	Ecuador 	*	*	*	Cofan_DAT_new.txt	new
 30	Colorado	Nevada	*	*	*	Colorado_DAT_new.txt	new
-31	Eastern Cree	Canada	Lieselotte Bartlett	Scott Merrifield	William R. Merrifield	Cree_DAT_new.txt	new
-32	Culina	Peru, Brazil	P. Adams and T. Fern{\x87}ndez	Jason Patent	*	Culina_DAT_new.txt	new
+31	Eastern_Cree	Canada	Lieselotte Bartlett	Scott Merrifield	William R. Merrifield	Cree_DAT_new.txt	new
+32	Culina	Brazil	P. Adams and T. Fern{\x87}ndez	Jason Patent	*	Culina_DAT_new.txt	new
 33	Didinga	Sudan	*	*	*	Didinga_DAT_new.txt	new
 34	Djuka	Suriname 	*	*	*	Djuka_DAT_new.txt	new
 35	Dyimini	Ivory Coast	*	*	*	Dyimini_DAT_new.txt	new
@@ -37,7 +37,7 @@
 37	Ese_Ejja	Bolivia	Kenneth and Joyce Prettol	Scott Merrifield	William R. Merrifield	Ese-Ejja_DAT_new.txt	new
 38	Carib	Guatemala	Teodora Gamboa	William R. Merrifield	William R. Merrifield	Garifuna_DAT_new.txt	new
 39	Guahibo	Colombia	Riena Kondo	Kenneth J. Merrifield	William R. Merrifield	Guahibo_DAT_new.txt	new
-40	Guambiano	Colombian 	*	*	*	Guambiano_DAT_new.txt	new
+40	Guambiano	Colombia 	*	*	*	Guambiano_DAT_new.txt	new
 41	Guarijio	Mexico	Ron and Sharon Stoltzfus	Kenneth J. Merrifield	William R. Merrifield	Guarijio_DAT_new.txt	new
 42	Ng{\x8A}bere	Panama	Arosemena	Patent, Jason	*	Guaymi_DAT_new.txt	new
 43	Gunu	Cameroon	D. Heath	Ken Merrifield	Ken Merrifield	Gunu_DAT_new.txt	new
@@ -45,8 +45,8 @@
 45	Huasteco	Mexico	*	*	*	Huastec_DAT_new.txt	new
 46	Huave	Mexico	G + E Stairs	Scott Merrifield	William R. Merrifield	Huave_DAT_new.txt	new
 47	Iduna	Papua New Guinea	Ramona Lucht	Jason D. Patent	*	Iduna_DAT_new.txt	new
-48	Ifugao	PHILIPPINES	RICHARD AND LOU HOHULIN	KENNETH MERRIFIELD	WILLIAM R. MERRIFIELD	Ifugao_DAT_new.txt	new
-49	Sepik Iwam	Papua New Guinea	Sailas Yaumor and Jona Yhombwan	Kenneth J. Merrifield	William R. Merrifield	Iwam_DAT_new.txt	new
+48	Ifugao	Philippines	RICHARD AND LOU HOHULIN	KENNETH MERRIFIELD	WILLIAM R. MERRIFIELD	Ifugao_DAT_new.txt	new
+49	Sepik_Iwam	Papua New Guinea	Sailas Yaumor and Jona Yhombwan	Kenneth J. Merrifield	William R. Merrifield	Iwam_DAT_new.txt	new
 50	Jicaque	Honduras	*	*	*	Jicaque_DAT_new.txt	new
 51	Kalam	Papua New Guinea	*	*	*	Kalam_DAT_new.txt	new
 52	Kamano-Kafe	Papua New Guinea	*	*	*	Kamano-Kafe_DAT_new.txt	new
@@ -58,7 +58,7 @@
 58	Kuku-Yalanji	Australia	*	*	*	Kuku-Yalanji_DAT_new.txt	new
 59	Long-haired_Kuna	Panama	Forster	Jason D. Patent	*	Kuna_DAT_new.txt	new
 60	Kwerba	Indonesia	*	*	*	Kwerba_DAT_new.txt	new
-61	Lele	CHAD	Pam Simons and Salet Samuel	William R. Merrifield	William R. Merrifield	Lele_DAT_new.txt	new
+61	Lele	Chad	Pam Simons and Salet Samuel	William R. Merrifield	William R. Merrifield	Lele_DAT_new.txt	new
 62	Mampruli	Ghana	Naden	Jason D. Patent	*	Mampruli_DAT_new.txt	new
 63	Maring	Papua New Guinea	S. Woodward	Jason Patent	*	Maring_DAT_new.txt	new
 64	Martu_Wangka	Australia	*	*	*	MartuWangka_DAT_new.txt	new
@@ -68,7 +68,7 @@
 68	Mazateco	Mexico	*	*	*	Mazatec_DAT_new.txt	new
 69	Menye	Papua New Guinea	Carl & Pat Whitehead	Data Input Person	Bill Merrifield	Menya_DAT_new.txt	new
 70	Micmac	Canada 	*	*	*	Micmac_DAT_new.txt	new
-71	Mikasuki	U S A	David West	Scott Merrifield	Scott Merrifield	Mikasuki_DAT_new.txt	new
+71	Mikasuki	USA	David West	Scott Merrifield	Scott Merrifield	Mikasuki_DAT_new.txt	new
 72	Mixteco	Mexico 	*	*	*	Mixtec_DAT_new.txt	new
 73	Mundu	Sudan	*	*	*	Mundu_DAT_new.txt	new
 74	Múra-Pirahã	Brazil	*	*	*	Mura-Piraha_DAT_new.txt	new
