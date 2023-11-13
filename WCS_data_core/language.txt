@@ -33,78 +33,78 @@
 33	Didinga	Sudan	*	*	*	Didinga_DAT_new.txt	new
 34	Djuka	Suriname 	*	*	*	Djuka_DAT_new.txt	new
 35	Dyimini	Ivory Coast	*	*	*	Dyimini_DAT_new.txt	new
-36	Ejagam	*	*	*	*	Ejagham_DAT_new.txt	new
-37	Ese Ejja	Bolivia	Kenneth and Joyce Prettol	Scott Merrifield	William R. Merrifield	Ese-Ejja_DAT_new.txt	new
+36	Ejagam	Nigeria 	*	*	*	Ejagham_DAT_new.txt	new
+37	Ese_Ejja	Bolivia	Kenneth and Joyce Prettol	Scott Merrifield	William R. Merrifield	Ese-Ejja_DAT_new.txt	new
 38	Carib	Guatemala	Teodora Gamboa	William R. Merrifield	William R. Merrifield	Garifuna_DAT_new.txt	new
 39	Guahibo	Colombia	Riena Kondo	Kenneth J. Merrifield	William R. Merrifield	Guahibo_DAT_new.txt	new
-40	Guambiano	*	*	*	*	Guambiano_DAT_new.txt	new
+40	Guambiano	Colombian 	*	*	*	Guambiano_DAT_new.txt	new
 41	Guarijio	Mexico	Ron and Sharon Stoltzfus	Kenneth J. Merrifield	William R. Merrifield	Guarijio_DAT_new.txt	new
 42	Ng{\x8A}bere	Panama	Arosemena	Patent, Jason	*	Guaymi_DAT_new.txt	new
 43	Gunu	Cameroon	D. Heath	Ken Merrifield	Ken Merrifield	Gunu_DAT_new.txt	new
 44	Halbi	India	F. Woods and P. Hopple	Jason Patent	*	Halbi_DAT_new.txt	new
-45	Huasteco	*	*	*	*	Huastec_DAT_new.txt	new
+45	Huasteco	Mexico	*	*	*	Huastec_DAT_new.txt	new
 46	Huave	Mexico	G + E Stairs	Scott Merrifield	William R. Merrifield	Huave_DAT_new.txt	new
-47	Iduna	*	Ramona Lucht	Jason D. Patent	*	Iduna_DAT_new.txt	new
+47	Iduna	Papua New Guinea	Ramona Lucht	Jason D. Patent	*	Iduna_DAT_new.txt	new
 48	Ifugao	PHILIPPINES	RICHARD AND LOU HOHULIN	KENNETH MERRIFIELD	WILLIAM R. MERRIFIELD	Ifugao_DAT_new.txt	new
 49	Sepik Iwam	Papua New Guinea	Sailas Yaumor and Jona Yhombwan	Kenneth J. Merrifield	William R. Merrifield	Iwam_DAT_new.txt	new
-50	Jicaque	*	*	*	*	Jicaque_DAT_new.txt	new
-51	Kalam	*	*	*	*	Kalam_DAT_new.txt	new
-52	Kamano-Kafe	*	*	*	*	Kamano-Kafe_DAT_new.txt	new
-53	Karaja	*	*	*	*	Karaja_DAT_new.txt	new
+50	Jicaque	Honduras	*	*	*	Jicaque_DAT_new.txt	new
+51	Kalam	Papua New Guinea	*	*	*	Kalam_DAT_new.txt	new
+52	Kamano-Kafe	Papua New Guinea	*	*	*	Kamano-Kafe_DAT_new.txt	new
+53	Karaja	Brazil	*	*	*	Karaja_DAT_new.txt	new
 54	Kemtuik	Indonesia	Jelly van de Wilden	Scott Merrifield	Scott Merrifield	Kemtuik_DAT_new.txt	new
-55	Kokoni	*	*	*	*	Kokni_DAT_new.txt	new
+55	Kokoni	India	*	*	*	Kokni_DAT_new.txt	new
 56	Konkomba	Ghana	M. A. Langdon	Ken Merrifield	Ken Merrifield	Konkomba_DAT_new.txt	new
-57	Kriol	*	*	*	*	Kriol_DAT_new.txt	new
-58	Kuku-Yalanji	*	*	*	*	Kuku-Yalanji_DAT_new.txt	new
-59	Long-haired Kuna	Panama	Forster	Jason D. Patent	*	Kuna_DAT_new.txt	new
-60	Kwerba	*	*	*	*	Kwerba_DAT_new.txt	new
+57	Kriol	Australia	*	*	*	Kriol_DAT_new.txt	new
+58	Kuku-Yalanji	Australia	*	*	*	Kuku-Yalanji_DAT_new.txt	new
+59	Long-haired_Kuna	Panama	Forster	Jason D. Patent	*	Kuna_DAT_new.txt	new
+60	Kwerba	Indonesia	*	*	*	Kwerba_DAT_new.txt	new
 61	Lele	CHAD	Pam Simons and Salet Samuel	William R. Merrifield	William R. Merrifield	Lele_DAT_new.txt	new
 62	Mampruli	Ghana	Naden	Jason D. Patent	*	Mampruli_DAT_new.txt	new
 63	Maring	Papua New Guinea	S. Woodward	Jason Patent	*	Maring_DAT_new.txt	new
-64	Martu Wangka	*	*	*	*	MartuWangka_DAT_new.txt	new
-65	Mawchi	*	*	*	*	Mawchi_DAT_new.txt	new
-66	Mayoruna	*	*	*	*	Mayoruna_DAT_new.txt	new
-67	Mazahua	*	*	*	*	Mazahua_DAT_new.txt	new
-68	Mazateco	*	*	*	*	Mazatec_DAT_new.txt	new
+64	Martu_Wangka	Australia	*	*	*	MartuWangka_DAT_new.txt	new
+65	Mawchi	India	*	*	*	Mawchi_DAT_new.txt	new
+66	Mayoruna	Brazil	*	*	*	Mayoruna_DAT_new.txt	new
+67	Mazahua	Mexico	*	*	*	Mazahua_DAT_new.txt	new
+68	Mazateco	Mexico	*	*	*	Mazatec_DAT_new.txt	new
 69	Menye	Papua New Guinea	Carl & Pat Whitehead	Data Input Person	Bill Merrifield	Menya_DAT_new.txt	new
-70	Micmac	*	*	*	*	Micmac_DAT_new.txt	new
+70	Micmac	Canada 	*	*	*	Micmac_DAT_new.txt	new
 71	Mikasuki	U S A	David West	Scott Merrifield	Scott Merrifield	Mikasuki_DAT_new.txt	new
-72	Mixteco	*	*	*	*	Mixtec_DAT_new.txt	new
-73	Mundu	*	*	*	*	Mundu_DAT_new.txt	new
-74	M{\x9C}ra Pirah{\x8B}	*	*	*	*	Mura-Piraha_DAT_new.txt	new
-75	Murle	*	*	*	*	Murle_DAT_new.txt	new
-76	Murinbata	*	*	*	*	Murrinh-Patha_DAT_new.txt	new
-77	Nafaanra	*	*	*	*	Nafaanra_DAT_new.txt	new
-78	N{\x87}huatl	*	*	*	*	Nahuatl_DAT_new.txt	new
-79	Ocaina	*	*	*	*	Ocaina_DAT_new.txt	new
-80	Papago	*	*	*	*	Oodham_DAT_new.txt	new
-81	Patep	*	*	*	*	Patep_DAT_new.txt	new
-82	Paya	*	*	*	*	Paya_DAT_new.txt	new
-83	Podopa	*	*	*	*	Podopa_DAT_new.txt	new
-84	Saramaccan	*	*	*	*	Saramaccan_DAT_new.txt	new
-85	Seri	*	*	*	*	Seri_DAT_new.txt	new
+72	Mixteco	Mexico 	*	*	*	Mixtec_DAT_new.txt	new
+73	Mundu	Sudan	*	*	*	Mundu_DAT_new.txt	new
+74	Múra-Pirahã	Brazil	*	*	*	Mura-Piraha_DAT_new.txt	new
+75	Murle	Sudan	*	*	*	Murle_DAT_new.txt	new
+76	Murinbata	Australia 	*	*	*	Murrinh-Patha_DAT_new.txt	new
+77	Nafaanra	Ghana	*	*	*	Nafaanra_DAT_new.txt	new
+78	Nahuatl	Mexico	*	*	*	Nahuatl_DAT_new.txt	new
+79	Ocaina	Peru	*	*	*	Ocaina_DAT_new.txt	new
+80	Papago	Mexico	*	*	*	Oodham_DAT_new.txt	new
+81	Patep	Papua New Guinea	*	*	*	Patep_DAT_new.txt	new
+82	Paya	Honduras	*	*	*	Paya_DAT_new.txt	new
+83	Podopa	Papua New Guinea	*	*	*	Podopa_DAT_new.txt	new
+84	Saramaccan	Suriname	*	*	*	Saramaccan_DAT_new.txt	new
+85	Seri	Mexico	*	*	*	Seri_DAT_new.txt	new
 86	Shipibo	Peru	Guillermo Ramirez	Ken Merrifield	Ken Merrifield	Shipibo_DAT_new.txt	new
-87	Sirion{\x97}	*	*	*	*	Siriono_DAT_new.txt	new
+87	Siriono	Bolivia	*	*	*	Siriono_DAT_new.txt	new
 88	Slave	Canada	Monus	Jason D. Patent	*	Slave_DAT_new.txt	new
-89	Sursurunga	*	*	*	*	Sursurunga_DAT_new.txt	new
-90	Tabla	*	*	*	*	Tabla_DAT_new.txt	new
+89	Sursurunga	Papua New Guinea	*	*	*	Sursurunga_DAT_new.txt	new
+90	Tabla	Indonesia	*	*	*	Tabla_DAT_new.txt	new
 91	Tacana	Bolivia	Ottaviano	Jason D. Patent	*	Tacana_DAT_new.txt	new
-92	Central Tarahumara	Mexico	Don Burgess	Scott Merrifield	William R Merrifield	Tarahumara-C_DAT_new.txt	new
-93	W. Tarahumara	Mexico	Don Burgess	Jason D. Patent	*	Tarahumara-W_DAT_new.txt	new
-94	Tboli	*	*	*	*	Tboli_DAT_new.txt	new
-95	Teribe	*	*	*	*	Teribe_DAT_new.txt	new
-96	Ticuna	*	*	*	*	Ticuna_DAT_new.txt	new
-97	Tifal	Papua N. Guinea	*	Jason D. Patent	*	Tifal_DAT_new.txt	new
-98	Tlapaneco	*	*	*	*	Tlapanec_DAT_new.txt	new
+92	Central_Tarahumara	Mexico	Don Burgess	Scott Merrifield	William R Merrifield	Tarahumara-C_DAT_new.txt	new
+93	Tarahumara	Mexico	Don Burgess	Jason D. Patent	*	Tarahumara-W_DAT_new.txt	new
+94	Tboli	Philippines	*	*	*	Tboli_DAT_new.txt	new
+95	Teribe	Panama	*	*	*	Teribe_DAT_new.txt	new
+96	Ticuna	Colombia	*	*	*	Ticuna_DAT_new.txt	new
+97	Tifal	Papua New Guinea	*	Jason D. Patent	*	Tifal_DAT_new.txt	new
+98	Tlapaneco	Mexico	*	*	*	Tlapanec_DAT_new.txt	new
 99	Tucano	Colombia	*	Jason D. Patent	*	Tucano_DAT_new.txt	new
-100	Vagla	*	*	*	*	Vagla_DAT_new.txt	new
-101	Vasavi	*	*	*	*	Vasavi_DAT_new.txt	new
-102	Waorani	*	*	*	*	Waorani_DAT_new.txt	new
-103	Walpiri	*	*	*	*	Warlpiri_DAT_new.txt	new
-104	Wobe	*	*	*	*	Wobe_DAT_new.txt	new
-105	Yacouba	*	*	*	*	Yacouba_DAT_new.txt	new
-106	Yakan	*	*	*	*	Yakan_DAT_new.txt	new
+100	Vagla	Ghana	*	*	*	Vagla_DAT_new.txt	new
+101	Vasavi	India	*	*	*	Vasavi_DAT_new.txt	new
+102	Waorani	Ecuador	*	*	*	Waorani_DAT_new.txt	new
+103	Walpiri	Australia	*	*	*	Warlpiri_DAT_new.txt	new
+104	Wobe	Ivory Coast	*	*	*	Wobe_DAT_new.txt	new
+105	Yacouba	Ivory Coast	*	*	*	Yacouba_DAT_new.txt	new
+106	Yakan	Philippines	*	*	*	Yakan_DAT_new.txt	new
 107	Yaminahua	Peru	L. Eakin and N. Faust	Jason Patent	*	Yaminahua_DAT_new.txt	new
 108	Yucuna	Colombia	Schauer	Jason D. Patent	*	Yucuna_DAT_new.txt	new
-109	Yupik	*	*	*	*	Yupik_DAT_new.txt	new
-110	Zapoteco	*	*	*	*	Zapotec_DAT_new.txt	new
+109	Yupik	Alaska	*	*	*	Yupik_DAT_new.txt	new
+110	Zapoteco	Mexico	*	*	*	Zapotec_DAT_new.txt	new
